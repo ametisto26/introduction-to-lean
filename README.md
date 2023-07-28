@@ -1,2 +1,2 @@
 # Introduction to Lean
- Before the math workshop on Sep.
+ Before the math workshop in Sep.
